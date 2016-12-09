@@ -1,0 +1,6 @@
+<templateSet group="other">
+  <template name="logger" value="private static final Logger logger = Logger.getLogger($CLASS_NAME$.class);$END$" description="Generate code for declaration and instanciation of a logger log4J inside a class" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
