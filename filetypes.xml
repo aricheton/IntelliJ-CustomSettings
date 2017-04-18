@@ -6,6 +6,7 @@
       <mapping ext="wdsl" type="PLAIN_TEXT" />
       <mapping pattern="mysql_fix_timezone_issue" type="SQL" />
       <mapping pattern="MvcAppointmentService" type="TypeScript" />
+      <mapping pattern="Transaction" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
