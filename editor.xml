@@ -1,6 +1,0 @@
-<application>
-  <component name="JetEditorOptions">
-    <option name="donTShowConversionDialog" value="true" />
-  </component>
-  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true" />
-</application>
