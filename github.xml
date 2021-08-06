@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="d7929776-7d3e-45ff-8600-b59769901fc9" name="aricheton-betclic">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

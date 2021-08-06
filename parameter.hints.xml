@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Rust">
+        <added pattern="core::model::event::new(phase,player,action)" />
+      </blacklist>
+    </blacklists>
+    <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
+  </component>
+</application>
