@@ -48,4 +48,10 @@
       <option name="KOTLIN_OBJECT_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="nic" value="@org.junit.jupiter.api.Nested&#10;inner class $ClassName$ {&#10;    $END$     &#10;}" description="Create a nested test class" toReformat="false" toShortenFQNames="true">
+    <variable name="ClassName" expression="NestedClassName" defaultValue="NestedClassName" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
 </templateSet>
