@@ -4,17 +4,28 @@
     <property name="created">2021-10-07T23:45:10</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.2.0.0</property>
-    <property name="modified">2021-10-24T14:22:55</property>
+    <property name="modified">2021-12-25T10:49:53</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.4" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="10" />
+  </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
+  <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="91b859" />
@@ -22,20 +33,36 @@
     <option name="ActionButton.hoverBackground" value="383d48c0" />
     <option name="ActionButton.iconTextForeground" value="979fad" />
     <option name="ActionButton.pressedBackground" value="383d48" />
+    <option name="Bookmark.Mnemonic.iconBackground" value="3e4451" />
+    <option name="Bookmark.Mnemonic.iconBorderColor" value="3e4451" />
+    <option name="Bookmark.Mnemonic.iconForeground" value="fffbf7" />
+    <option name="Bookmark.iconBackground" value="2979ff" />
     <option name="BookmarkIcon.background" value="2979ff" />
+    <option name="BookmarkMnemonicIcon.background" value="3e4451" />
+    <option name="BookmarkMnemonicIcon.borderColor" value="3e4451" />
+    <option name="BookmarkMnemonicIcon.foreground" value="fffbf7" />
     <option name="CARET_COLOR" value="557ecf" />
     <option name="CARET_ROW_COLOR" value="2c323c" />
     <option name="CONSOLE_BACKGROUND_KEY" value="282c34" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="61aeef" />
+    <option name="DIAGRAM_COARSE_GRID" value="3a3f4b" />
     <option name="DIAGRAM_DEFAULT_EDGE" value="abb2bf" />
+    <option name="DIAGRAM_FINE_GRID" value="3c4049" />
     <option name="DIAGRAM_GENERALIZATION_EDGE" value="e5c17c" />
+    <option name="DIAGRAM_HOT_SPOTS" value="61aeef" />
     <option name="DIAGRAM_INNER_EDGE" value="c679dd" />
     <option name="DIAGRAM_NODE_BACKGROUND" value="282c34" />
-    <option name="DIAGRAM_NODE_HEADER" value="3a3f4b" />
+    <option name="DIAGRAM_NODE_BORDER" value="3c4049" />
+    <option name="DIAGRAM_NODE_HEADER" value="2f333d" />
+    <option name="DIAGRAM_NODE_SLOPPY_BACKGROUND" value="383d48" />
     <option name="DIAGRAM_NOTE_BACKGROUND" value="282c34" />
     <option name="DIAGRAM_NOTE_BORDER" value="abb2bf" />
+    <option name="DIAGRAM_NOTE_SLOPPY_BACKGROUND" value="383d48" />
     <option name="DIAGRAM_REALIZATION_EDGE" value="d19a66" />
+    <option name="DIAGRAM_SELECTED_NODE_BORDER" value="2979ff" />
+    <option name="DIAGRAM_SELECTION_BOX_BORDER" value="2979ff" />
+    <option name="DIAGRAM_SNAPPING_LINES" value="2979ff" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOCUMENTATION_COLOR" value="2f333d" />
@@ -73,8 +100,17 @@
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="282a36" />
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="3e4451" />
     <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="3a3f4b" />
+    <option name="JUPYTER.CELL_UNDER_CARET_COMMAND_MODE_STRIPE_COLOR" value="2979ff" />
+    <option name="JUPYTER.CELL_UNDER_CARET_EDITOR_MODE_STRIPE_COLOR" value="383d48" />
+    <option name="JUPYTER.CODE_CELL_BACKGROUND" value="2f333d" />
+    <option name="JUPYTER.GUTTER_INPUT_EXECUTION_COUNT" value="abb2bf" />
+    <option name="JUPYTER.GUTTER_OUTPUT_EXECUTION_COUNT" value="56b6c2" />
+    <option name="JUPYTER.PROGRESS_STATUS_RUNNING_COLOR" value="2979ff" />
+    <option name="JUPYTER.SAUSAGE_BUTTON_BORDER_COLOR" value="282c34" />
+    <option name="JUPYTER.SAUSAGE_BUTTON_SHORTCUT_COLOR" value="979fad" />
     <option name="LINE_NUMBERS_COLOR" value="636d83" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c6c6c6" />
+    <option name="LOOKUP_COLOR" value="2f333d" />
     <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
     <option name="MODIFIED_LINES_COLOR" value="61aeef" />
     <option name="MODIFIED_TAB_ICON" value="2979ff" />
@@ -455,6 +491,7 @@
       <value>
         <option name="FOREGROUND" value="c679dd" />
         <option name="EFFECT_COLOR" value="c679dd" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -1357,6 +1394,12 @@
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JUPYTER.SAUSAGE_BUTTON_APPEARANCE">
+      <value>
+        <option name="FOREGROUND" value="979fad" />
+        <option name="BACKGROUND" value="3a3f4b" />
+      </value>
+    </option>
     <option name="JUPYTER_SELECTED_CELL">
       <value>
         <option name="BACKGROUND" value="3a3f4b" />
@@ -1406,7 +1449,9 @@
       <value />
     </option>
     <option name="KOTLIN_LABEL">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="c3d3de" />
+      </value>
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -1431,7 +1476,9 @@
       </value>
     </option>
     <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="57b6c2" />
+      </value>
     </option>
     <option name="KOTLIN_QUEST">
       <value>
@@ -2768,8 +2815,10 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
+        <option name="BACKGROUND" value="383d48" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="557ecf" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -2968,9 +3017,15 @@
         <option name="FOREGROUND" value="219598" />
       </value>
     </option>
+    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="61aeef" />
+      </value>
+    </option>
+    <option name="PY.IMPORT">
+      <value>
+        <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
     <option name="PY.KEYWORD">
@@ -2984,6 +3039,11 @@
         <option name="FOREGROUND" value="abb2bf" />
       </value>
     </option>
+    <option name="PY.NONE">
+      <value>
+        <option name="FOREGROUND" value="d19a66" />
+      </value>
+    </option>
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
         <option name="FOREGROUND" value="61aeef" />
@@ -2994,6 +3054,11 @@
       <value>
         <option name="FOREGROUND" value="61aeef" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.PRINT">
+      <value>
+        <option name="FOREGROUND" value="219598" />
       </value>
     </option>
     <option name="PY.SELF_PARAMETER">
@@ -3010,6 +3075,11 @@
     <option name="PY.STRING.B">
       <value>
         <option name="FOREGROUND" value="98c379" />
+      </value>
+    </option>
+    <option name="PY.TRUE_FALSE">
+      <value>
+        <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
     <option name="RDOC_DIRECTIVE">
@@ -3260,6 +3330,11 @@
         <option name="EFFECT_COLOR" value="e06c75" />
         <option name="ERROR_STRIPE_COLOR" value="e06c75" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="R_NAMED_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="abb2bf" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_ATTRIBUTE_VALUE">
@@ -3761,10 +3836,6 @@
         <option name="FOREGROUND" value="f07178" />
       </value>
     </option>
-    <option name="org.rust.LIFETIME" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="org.rust.MUT_BINDING" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="org.rust.MUT_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="org.rust.TYPE_PARAMETER" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="org.rust.UNSAFE_CODE">
       <value />
     </option>
