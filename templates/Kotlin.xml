@@ -1,7 +1,6 @@
 <templateSet group="Kotlin">
-  <template name="nt" value="@org.junit.jupiter.api.Test&#10;fun `Should $expected$ when $condition$`(){&#10;    // Given&#10;    $END$     &#10;         &#10;    // When&#10;         &#10;    // Then&#10;    org.assertj.core.api.Assertions.fail&lt;Any&gt;(&quot;This test fail&quot;)&#10;}" description="Create a new test method" toReformat="true" toShortenFQNames="true">
+  <template name="nt" value="@org.junit.jupiter.api.Test&#10;fun `should $expected$`(){&#10;    // Given&#10;    $END$     &#10;         &#10;    // When&#10;         &#10;    // Then&#10;    org.assertj.core.api.Assertions.fail&lt;Any&gt;(&quot;This test fail&quot;)&#10;}" description="Create a new test method" toReformat="true" toShortenFQNames="true">
     <variable name="expected" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="condition" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
     </context>
