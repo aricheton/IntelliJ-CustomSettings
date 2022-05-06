@@ -10,5 +10,6 @@
     <entry key="js.debugger.webconsole" value="false" />
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="editor.distraction.free.mode" value="true" />
+    <entry key="ide.experimental.ui" value="false" />
   </component>
 </application>
