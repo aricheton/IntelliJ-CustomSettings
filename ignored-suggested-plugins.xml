@@ -4,6 +4,7 @@
       <list>
         <option value="com.intellij.reactivestreams" />
         <option value="com.intellij.beanValidation" />
+        <option value="org.dynamodb4idea" />
       </list>
     </option>
   </component>
