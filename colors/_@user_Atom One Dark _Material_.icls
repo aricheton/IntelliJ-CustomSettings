@@ -4,7 +4,7 @@
     <property name="created">2021-10-07T23:45:10</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.2.0.0</property>
-    <property name="modified">2022-06-02T10:03:26</property>
+    <property name="modified">2022-06-09T10:27:01</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1447,9 +1447,7 @@
       <value />
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="c3d3de" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -2813,15 +2811,23 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="383d48" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="557ecf" />
-        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="c4b3a3" />
+      </value>
+    </option>
+    <option name="NG.BANANA_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="d19a66" />
+      </value>
+    </option>
+    <option name="NG.EVENT_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="61aeef" />
       </value>
     </option>
     <option name="NG.EXPANSION_FORM">
@@ -2831,7 +2837,24 @@
     </option>
     <option name="NG.EXPRESSIONS">
       <value>
+        <option name="BACKGROUND" value="282c34" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="NG.PROPERTY_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="d19a66" />
+      </value>
+    </option>
+    <option name="NG.REFERENCE_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="abb2bf" />
+      </value>
+    </option>
+    <option name="NG.TEMPLATE_BINDINGS_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="c679dd" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
@@ -3079,6 +3102,9 @@
       <value>
         <option name="FOREGROUND" value="d19a66" />
       </value>
+    </option>
+    <option name="QUTE_BACKGROUND">
+      <value />
     </option>
     <option name="RDOC_DIRECTIVE">
       <value>
@@ -3580,6 +3606,46 @@
     <option name="SMARTY_BACKGROUND">
       <value>
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="SONARLINT_BLOCKER">
+      <value>
+        <option name="EFFECT_COLOR" value="e06c75" />
+        <option name="ERROR_STRIPE_COLOR" value="e06c75" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_CRITICAL">
+      <value>
+        <option name="EFFECT_COLOR" value="e06c75" />
+        <option name="ERROR_STRIPE_COLOR" value="e06c75" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_INFO">
+      <value>
+        <option name="EFFECT_COLOR" value="ffeb95" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_MAJOR">
+      <value>
+        <option name="EFFECT_COLOR" value="e5c17c" />
+        <option name="ERROR_STRIPE_COLOR" value="e5c17c" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_MINOR">
+      <value>
+        <option name="EFFECT_COLOR" value="f49810" />
+        <option name="ERROR_STRIPE_COLOR" value="f49810" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SONARLINT_SELECTED">
+      <value>
+        <option name="BACKGROUND" value="33e5d" />
+        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
     </option>
     <option name="SPEL.BACKGROUND">
