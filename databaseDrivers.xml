@@ -12,7 +12,7 @@
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.21" />
     </driver>
     <driver id="postgresql">
-      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.4.0" />
     </driver>
     <driver id="snowflake">
       <artifact id="Snowflake" name="Snowflake" use="true" version="3.12.9" />
