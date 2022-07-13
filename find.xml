@@ -5,13 +5,13 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>pom.xml</mask>
     <mask>*.go</mask>
     <mask>*.sql</mask>
     <mask>*.kt</mask>
     <mask>*.test.ts</mask>
     <mask>!*.ts</mask>
-    <mask>*.ts</mask>
     <mask>*.json</mask>
     <mask>*.yml</mask>
     <mask>*.css</mask>
@@ -22,5 +22,6 @@
     <mask>*.java</mask>
     <mask>*.tf</mask>
     <mask>*.py</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
