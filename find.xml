@@ -3,9 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>pom.xml</mask>
     <mask>*.go</mask>
-    <mask>*.sql</mask>
     <mask>*.kt</mask>
     <mask>*.test.ts</mask>
     <mask>!*.ts</mask>
@@ -20,5 +20,6 @@
     <mask>*.tf</mask>
     <mask>*.py</mask>
     <mask>*.ts</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
