@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>pom.xml</mask>
     <mask>*.go</mask>
     <mask>!*.ts</mask>
@@ -19,7 +19,7 @@
     <mask>*.py</mask>
     <mask>*.sql</mask>
     <mask>*.test.ts</mask>
-    <mask>*.ts</mask>
     <mask>*.kt</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
