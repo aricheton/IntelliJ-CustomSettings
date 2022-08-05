@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'reward-service'" />
-    <option name="defaultScopeName" value="Project 'reward-service'" />
-    <option name="SEARCH_SCOPE" value="Project 'reward-service'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>pom.xml</mask>
     <mask>*.go</mask>
     <mask>!*.ts</mask>
