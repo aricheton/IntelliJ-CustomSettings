@@ -11,6 +11,5 @@
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="editor.distraction.free.mode" value="true" />
     <entry key="scala.erase.compiler.process.jdk.once" value="false" />
-    <entry key="" value="true" />
   </component>
 </application>
