@@ -12,5 +12,8 @@
     <entry key="editor.distraction.free.mode" value="true" />
     <entry key="scala.erase.compiler.process.jdk.once" value="false" />
     <entry key="ide.editor.tab.selection.animation" value="true" />
+    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
+    <entry key="editor.focus.mode.color.light" value="6b727d" />
+    <entry key="editor.focus.mode.color.dark" value="6b727d" />
   </component>
 </application>
