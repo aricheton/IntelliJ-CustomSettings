@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*dule.kt" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>pom.xml</mask>
     <mask>*.go</mask>
     <mask>!*.ts</mask>
@@ -22,8 +22,8 @@
     <mask>*.sql</mask>
     <mask>*.test.ts</mask>
     <mask>*IT.kt</mask>
-    <mask>*.kt</mask>
     <mask>*.ts</mask>
     <mask>*dule.kt</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
