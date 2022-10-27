@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="aricheton-betclic" id="d7929776-7d3e-45ff-8600-b59769901fc9">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="CLONE_GIT_USING_SSH" value="true" />
+  </component>
+</application>

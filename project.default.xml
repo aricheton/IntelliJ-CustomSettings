@@ -1,0 +1,43 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="DefaultGradleProjectSettings">
+        <option name="isMigrated" value="true" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Projects/rox/analytics-eventbus-collector" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/rox/extensions-logging-kotlin" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/rox/rox-analytics-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/rox/rox-communication-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/rox/rox-metagame-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/rox/rox-portal-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/Projects/sandbox/game-ladder" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ProjectViewState">
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+      </component>
+      <component name="accountSettings">
+        <option name="activeProfile" value="profile:default" />
+        <option name="activeRegion" value="eu-west-3" />
+        <option name="recentlyUsedProfiles">
+          <list>
+            <option value="profile:default" />
+          </list>
+        </option>
+        <option name="recentlyUsedRegions">
+          <list>
+            <option value="eu-west-3" />
+          </list>
+        </option>
+      </component>
+    </defaultProject>
+  </component>
+</application>
