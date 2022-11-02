@@ -4,7 +4,7 @@
     <property name="created">2021-10-07T23:45:10</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.2.0.0</property>
-    <property name="modified">2022-11-02T17:27:02</property>
+    <property name="modified">2022-11-02T22:37:43</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -142,7 +142,7 @@
     <option name="MnemonicIcon.background" value="3e4451" />
     <option name="MnemonicIcon.borderColor" value="3e4451" />
     <option name="MnemonicIcon.foreground" value="fffbf7" />
-    <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
+    <option name="NOTIFICATION_BACKGROUND" value="282c34" />
     <option name="NOT_CHANGED" value="979fad" />
     <option name="PROMOTION_PANE" value="21252b" />
     <option name="QUESTION_HINT" value="282c34" />
