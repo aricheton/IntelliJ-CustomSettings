@@ -1,5 +1,8 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
+    <local-interpreter path="$USER_HOME$/Library/Caches/fnm_multishells/58407_1668605043090/bin/node">
+      <version-cache version="16.17.1" last-modified="1663901088000" />
+    </local-interpreter>
     <local-interpreter path="$USER_HOME$/Library/Caches/fnm_multishells/94200_1667830454564/bin/node">
       <version-cache version="14.21.0" last-modified="1667305742000" />
     </local-interpreter>
