@@ -8,6 +8,7 @@
       <mapping pattern=".edittorconfig" type="PLAIN_TEXT" />
       <mapping pattern=".sdkmanrc" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping ext="qrc" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cfg" approved="true" type="Ini" />
